@@ -1,5 +1,5 @@
 public
 resources/_gen/assets/css
-static/avatar/.DS_Store
+.DS_Store
 static/resources
 themes/reimu/archetypes
