@@ -1,6 +1,6 @@
 +++
 date = '2025-08-31T01:23:59+08:00'
-draft = true
+draft = false
 title = '介绍我的macOS 以及其初始化'
 categories = ['macOS']
 tags = []

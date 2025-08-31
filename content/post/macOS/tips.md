@@ -1,6 +1,6 @@
 +++
 date = '2025-08-31T15:33:36+08:00'
-draft = true
+draft = false
 title = 'macOS Tips'
 +++
 ## 日常
