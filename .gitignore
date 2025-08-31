@@ -5,3 +5,6 @@ static/resources
 themes/reimu/archetypes
 .hugo_build.lock
 static/images
+node_modules
+package-lock.json
+package.json

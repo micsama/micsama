@@ -2,6 +2,7 @@
 date = '2025-08-31T15:33:36+08:00'
 draft = false
 title = 'macOS Tips'
+categories = ['macOS']
 +++
 ## 日常
 (本段落由AI改写，真油啊)
