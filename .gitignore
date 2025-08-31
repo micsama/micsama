@@ -3,3 +3,5 @@ resources/_gen/assets/css
 .DS_Store
 static/resources
 themes/reimu/archetypes
+.hugo_build.lock
+static/images
