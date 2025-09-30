@@ -1,6 +1,6 @@
 +++
 date = '2025-08-31T18:23:52+08:00'
-draft = true
+draft = false
 title = 'Neovim Keymaps'
 tags = ['nvim']
 categories = ['备忘']
